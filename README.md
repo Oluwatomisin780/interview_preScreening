@@ -71,3 +71,15 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Api url for testing
+
+- Url - [apiurl](https://interview-prescreening.onrender.com/api)
+
+- Method - GET
+- Description
+- This API is used to get the list of Post and filter post by category .
+- Method - POST
+- Description
+- This API is used to create a new post.  
+  and other Api Endpoint would be found in the swagger document api in the url above
